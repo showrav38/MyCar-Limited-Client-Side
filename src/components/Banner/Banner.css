@@ -1,4 +1,54 @@
-.textColor{
+.banner {
+  background-image: url('../Images/banner/banner\ \(1\).jpg'),
+    linear-gradient(rgba(61, 60, 60, 0.5), rgba(0, 0, 0, 0.5));
+  height: 780px;
+  width: 100vw;
+  /* border: 1px solid red; */
+  background-blend-mode: overlay;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.title {
+  color: white;
+  font-weight: bold;
+  font-size: 59px;
+}
+.about-btn {
+  background-color: rgb(255, 115, 0);
+  outline: none;
+  border: none;
+  padding: 17px 34px;
+  color: white;
+}
+.banner-container {
+  position: relative;
+}
+
+/* .textColor{
+    color:rgb(18, 19, 17);
+  }
+
+  .backColor{
+      background-color: lightblue;
+  }
+
+  @media only screen and (max-width:688px) {
+    .backColor{
+      width:100%;
+      
+    }
+   
+}
+@media only screen and (min-width:689px) and (max-width: 991px){
+    .backColor{
+        width:100%;
+      
+      }
+  
+} */
+
+/* .textColor{
     color:rgb(18, 19, 17);
   }
 
@@ -20,3 +70,4 @@
       }
   
 }
+ */

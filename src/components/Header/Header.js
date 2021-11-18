@@ -10,7 +10,7 @@ const Header = () => {
         <div>
             <Navbar bg="" style={{ height: '', backgroundColor: '#565555' }} variant="dark" fixed="top" collapseOnSelect expand="lg" className="border-bottom border-2 border-white">
                 <Container>
-                    <NavLink as={Link} to="/" style={{ textDecoration: 'none' }}><h3 className="textExtra"><span id="textMain"> CarMax </span>PlatForm</h3></NavLink>
+                    <NavLink as={Link} to="/" style={{ textDecoration: 'none' }}><h3 className="textExtra"><span id="textMain"> MyCar </span>Services</h3></NavLink>
                     <Navbar.Toggle />
                     <Navbar.Collapse className="justify-content-center " style={{ height: '', backgroundColor: '#565555' }}>
                         <Nav.Link as={HashLink} to="/home#home" style={{ margin: '10px', textDecoration: 'none', color: 'white' }} >Home</Nav.Link>

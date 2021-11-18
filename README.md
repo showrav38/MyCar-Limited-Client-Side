@@ -1,10 +1,11 @@
-# Getting Started with Create React App
+# MyCar SerVices
+### online car selling and servicing website
 
-Firebase live deploy link of project [Create React App] ().
+Netlify live deploy link of project [Create React App] (https://youthful-colden-0f2d41.netlify.app/).
 
 ## Project Name
 
-Car Selling Website (CarMax PlatForm)
+Car Selling Website (Mycar Services)
 
 ### Project Details
 
